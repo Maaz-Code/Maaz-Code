@@ -11,7 +11,7 @@ You can Connect with me on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/maaz-ahmed-6b9b98187/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark)]
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark)]
