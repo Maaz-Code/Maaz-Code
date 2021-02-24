@@ -8,6 +8,7 @@ I like Web Development and also contributing to Open Source. Learning new things
 <ul>
   <li> Open-Source contributor for <a href="https://gssoc.girlscript.tech/index.html">GSSOC'2021</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maaz-ahmed-6b9b98187/">LinkedIn</a>. </li>
+  <li> Read me blogs on <a href="https://experiences-with-maaz.blogspot.com/">Blogger</a>. </li>
   <li> Email me @ <a href="ahmedmaaz73@gmail.com">ahmedmaaz73@gmail.com</a>. </li>
 </ul>
 <br>
