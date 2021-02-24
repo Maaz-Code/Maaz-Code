@@ -1,6 +1,8 @@
 <h1> Hi, I'm Maaz Ahmed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 I am a sophomore year student at UPES,Dehradun. I am currently pursuing my Bachelor's degree in Computer Science Engineering :mortar_board: .<br>
-I like Web Development and also contributing to Open Source.
+I like Web Development and also contributing to Open Source. 
+![](https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 <br>
 <br>
 <h2> Links :link: </h2>
@@ -10,7 +12,5 @@ I like Web Development and also contributing to Open Source.
 </li>
 <br>
 <br>
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark)</p>
-<br>
-<br>
-<p>![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark)</p>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark" alt="Top Languages" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark" alt="Github stats" />
