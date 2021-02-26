@@ -5,7 +5,8 @@ I am a sophomore year student at UPES,Dehradun. I am currently pursuing my Bache
 I like Web Development and also contributing to Open Source. Learning new things everyday. Happy Coding! :smile:
 <br>
 <h2> Links :link: </h2>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
+<br>
 <ul>
   <li> Open-Source contributor for <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSOC'2021</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maaz-ahmed-6b9b98187/" target="_blank">LinkedIn</a>. 
@@ -15,5 +16,6 @@ I like Web Development and also contributing to Open Source. Learning new things
 </ul>
 <br>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=PHP" alt="Top Languages" /></div>
+<br>
 <br>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark" alt="Github stats" /></div>
