@@ -14,6 +14,6 @@ I like Web Development and also contributing to Open Source. Learning new things
   <li> Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. :envelope:</li>
 </ul>
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark" alt="Top Languages" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=PHP" alt="Top Languages" /></div>
 <br>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark" alt="Github stats" /></div>
