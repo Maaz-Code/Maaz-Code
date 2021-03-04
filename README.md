@@ -11,7 +11,7 @@ I like Web Development and also contributing to Open Source. Learning new things
   <li> Open-Source contributor for <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSOC'2021</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maaz-ahmed-6b9b98187/" target="_blank">LinkedIn</a>. 
     <img alt="Maaz's LinkedIN" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></li>
-  <li> Read my blogs on <a href="https://experiences-with-maaz.blogspot.com/" target="_blank">Blogger</a>. </li>
+  <li> Read my blogs on <a href="https://maaz-code.hashnode.dev/" target="_blank">Hashnode</a>. </li>
   <li> Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. :envelope:</li>
 </ul>
 <br>
