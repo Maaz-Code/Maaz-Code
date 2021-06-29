@@ -18,4 +18,4 @@ I like Web Development and also contributing to Open Source. Learning new things
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=PHP" alt="Top Languages" /></div>
 <br>
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark" alt="Github stats" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github stats" /></div>
