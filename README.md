@@ -1,5 +1,5 @@
 <h1> Hi, I'm Maaz! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge">
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"> -->
 </h1>
 I am a sophomore year student at UPES,Dehradun. I am currently pursuing my Bachelor's degree in Computer Science Engineering :mortar_board: .<br>
 I like Web Development and also contributing to Open Source. Learning new things everyday. Happy Coding! :smile:
