@@ -8,7 +8,7 @@ My areas of interest are Web Development and Cloud Computing. I also like contri
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
 <br>
 <ul>
-  <li> Open-Source contribution in <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSOC'2021</a>. </li>
+  <li> Open-Source contribution in <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSoC'2021</a> and <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maaz-ahmed-6b9b98187/" target="_blank">LinkedIn</a>.
     <img alt="Maaz's LinkedIn" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></li>
   <li> Read my blogs on <a href="https://maaz-code.hashnode.dev/" target="_blank">Hashnode</a>. </li>
