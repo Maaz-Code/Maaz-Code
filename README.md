@@ -5,7 +5,6 @@ My areas of interest are Web Development and Cloud Computing. I also like contri
 <br>
 ## Links :link:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
-<br>
 <ul>
   <li> Open-Source contribution in <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSoC'2021</a> and <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maaz-ahmed-6b9b98187/" target="_blank">LinkedIn</a>
@@ -13,6 +12,7 @@ My areas of interest are Web Development and Cloud Computing. I also like contri
   </li>
   <li> Read my blogs on <a href="https://maaz-code.hashnode.dev/" target="_blank">Hashnode</a>. </li>
   <li> Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. 📧</li>
+  <li> President of the student community - <a href="https://www.instagram.com/upeshypervision/?hl=en" target="_blank">UPES Hypervision</a>.</li>
   <li> Former Web Development Intern @ <a href="https://www.rmgx.in/" target="_blank">RMgX Technologies</>. 💻</li>
 </ul>
 <br>
