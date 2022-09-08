@@ -20,3 +20,6 @@ My areas of interest are Web Development and Cloud Computing. I also like contri
 <br>
 <br>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github stats" /></div>
+<br>
+<br>
+[![Maaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maaz-Code&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
