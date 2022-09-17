@@ -1,4 +1,4 @@
-# Hi, I'm Maaz! 👋
+# Hi, I'm Maaz! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"> -->
 I am a final year student at UPES, Dehradun 🏛️. I am currently pursuing my Bachelor's degree in Computer Science Engineering 🎓 .<br>
 My areas of interest are Web Development and Cloud Computing. I also like contributing to Open-Source. A hard-working and passionate computer science student who likes to build solutions and contribute to ideas using different technologies and core fundamentals. Cheers and Happy Coding! 😄
