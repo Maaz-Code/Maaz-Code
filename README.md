@@ -1,3 +1,4 @@
+[![@maaz's Holopin board](https://holopin.io/api/user/board?user=maaz)](https://holopin.io/@maaz)
 # Hi, I'm Maaz! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"> -->
 I am a final year student at UPES, Dehradun 🏛️. I am currently pursuing my Bachelor's degree in Computer Science Engineering 🎓 .<br>
