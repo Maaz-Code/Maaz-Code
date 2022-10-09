@@ -17,7 +17,7 @@ My areas of interest are Web Development and Cloud Computing. I also like contri
   <li> Former Web Development Intern @ <a href="https://www.rmgx.in/" target="_blank">RMgX Technologies</>. 💻</li>
 </ul>
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=PHP&langs_count=6" alt="Top Languages" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=Python&langs_count=8" alt="Top Languages" /></div>
 <br>
 <br>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github stats" /></div>
