@@ -7,6 +7,7 @@ I have interests in domains like Web Development, Cloud Computing, and DevOps. I
 ## Links :link:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
 <ul>
+  <li>Developer Intern @ <a href="https://adenza.com/" target="_blank">Adenza</a>.</li>
   <li> Open-Source contribution in <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSoC'2021</a> and <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maaz-ahmed-6b9b98187/" target="_blank">LinkedIn</a>
     and <a href="https://twitter.com/isitMaaz" target="_blank">Twitter</a>. 
