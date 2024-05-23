@@ -7,7 +7,7 @@ My areas of interest are DevOps, Full-Stack Web Development, Cloud Computing, an
 ## Links :link:
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="350">
 <ul>
-  <li> Associate Software Engineer @ <a href="https://adenza.com/" target="_blank">Adenza</a>.</li>
+  <li> Software Engineer @ <a href="https://adenza.com/" target="_blank">Nasdaq</a>.</li>
   <li> Open-Source contributions in <a href="https://gssoc.girlscript.tech/index.html" target="_blank">GSSoC</a> and <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>. </li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/maazahmed9000/" target="_blank">LinkedIn</a>
     and <a href="https://twitter.com/isitMaaz" target="_blank">Twitter (X)</a>. 
