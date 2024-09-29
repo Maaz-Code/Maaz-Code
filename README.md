@@ -1,6 +1,6 @@
 [![@maaz's Holopin board](https://holopin.io/api/user/board?user=maaz)](https://holopin.io/@maaz)
 # Hi, I'm Maaz! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"> -->
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"/> -->
 💻 Full-Time Software Engineer | Hashnode Blogger
 
 🎓 Graduated with a degree in Computer Science Engineering, I'm a tech enthusiast with a passion for innovation and a knack for problem-solving. My journey began as an eager student exploring diverse areas of technology, from web development to cloud computing, from DevOps to DevRel, and contributing to open-source projects.
@@ -14,21 +14,14 @@
 🚀 I'm always seeking opportunities to learn, grow, and collaborate. Planning to build a strong foundation for a bright career ahead. Feel free to connect anytime!
 <br>
 ## Links :link:
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="350">
-<ul>
-  <li> Software Engineer @ [Nasdaq](https://adenza.com/)
-  <li> Open-Source contributions in [GSSoC](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.com/)". </li>
-  <li> Connect with me on [LinkedIn](https://www.linkedin.com/in/maazahmed9000/)
-    and [X](https://x.com/). 
-  </li>
-  <li> Read my blogs on [Hashnode](https://maaz-code.hashnode.dev/). </li>
-  <li> Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. 📧</li>
-  <li> Former President of the student community - [UPES Hypervision](https://www.instagram.com/upeshypervision).</li>
-</ul>
+<a><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="340" height="240"/></a>
+- Software Engineer @ [Nasdaq](https://adenza.com/).
+- Open-Source contributions in [GSSoC](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.com/).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/maazahmed9000/) and [X](https://x.com/).
+- Read my blogs on [Hashnode](https://maaz-code.hashnode.dev/).
+- Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. 📧
+- Former President of the student community - [UPES Hypervision](https://www.instagram.com/upeshypervision).
 <br>
-<a>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=Python&exclude_repo=ecomm&langs_count=8" alt="Top Languages" />
-</a>
-<a>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github stats" />
-</a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=Python&exclude_repo=ecomm&langs_count=8" alt="Top Languages" /></a>
+<br>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github stats" /></a>
