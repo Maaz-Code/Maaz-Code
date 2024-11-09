@@ -9,7 +9,7 @@
 
 💼 With months of internship experience under my belt, I joined the industry as a full-time Software Engineer. In this role, every day I get to contribute my skills and knowledge to real-world projects, solve complex issues, and leave a meaningful impact.
 
-🤝 My skillset includes programming languages like Java and JS. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker and AWS.
+🤝 My skillset includes programming languages like Java and JS. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker, AWS, and Product Management.
 
 🚀 I'm always seeking opportunities to learn, grow, and collaborate. Planning to build a strong foundation for a bright career ahead. Feel free to connect anytime!
 <br>
