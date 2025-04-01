@@ -3,13 +3,13 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"/> -->
 💻 Full-Time Software Engineer | Hashnode Blogger
 
-🎓 Graduated with a degree in Computer Science Engineering, I'm a tech enthusiast with a passion for innovation and a knack for problem-solving. My journey began as an eager student exploring diverse areas of technology, from web development to cloud computing, from DevOps to DevRel, and contributing to open-source projects.
+🎓 Graduated with a degree in Computer Science Engineering, I'm a tech enthusiast with a passion for innovation and a knack for problem-solving. My journey began as an eager student exploring diverse areas of technology, from web development to cloud computing, from DevOps to Product Management, and contributing to open-source projects.
 
 🌟 During my university years, I actively participated in various student organizations, honing my leadership, teamwork, and project management skills. These experiences not only enriched my academic life but also broadened my horizons in the tech world.
 
 💼 With months of internship experience under my belt, I joined the industry as a full-time Software Engineer. In this role, every day I get to contribute my skills and knowledge to real-world projects, solve complex issues, and leave a meaningful impact.
 
-🤝 My skillset includes programming languages like Java and JS. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker, AWS, and Product Management.
+🤝 My skillset includes programming languages like Java and JS. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker, AWS, and System Design.
 
 🚀 I'm always seeking opportunities to learn, grow, and collaborate. Planning to build a strong foundation for a bright career ahead. Feel free to connect anytime!
 <br>
