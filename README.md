@@ -1,7 +1,7 @@
 [![@maaz's Holopin board](https://holopin.io/api/user/board?user=maaz)](https://holopin.io/@maaz)
 # Hi, I'm Maaz! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Maaz-Code.Maaz-Code" alt="badge"/> -->
-💻 Full-Time Software Engineer | Hashnode Blogger
+💻 Full-Time Software Engineer
 
 🎓 Graduated with a degree in Computer Science Engineering, I'm a tech enthusiast with a passion for innovation and a knack for problem-solving. My journey began as an eager student exploring diverse areas of technology, from web development to cloud computing, from DevOps to Product Management, and contributing to open-source projects.
 
@@ -11,7 +11,7 @@
 
 🤝 My skillset includes programming languages like Java and JS. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker, AWS, and System Design.
 
-🚀 I'm always seeking opportunities to learn, grow, and collaborate. Planning to build a strong foundation for a bright career ahead. Feel free to connect anytime!
+🚀 I'm always seeking opportunities to learn, grow, collaborate, and even write blogs. Planning to build a strong foundation for a bright career ahead. Feel free to connect anytime!
 <br>
 ## Links :link:
 <a><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="340" height="240"/></a>
