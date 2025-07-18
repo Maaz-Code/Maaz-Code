@@ -9,14 +9,14 @@
 
 💼 With months of internship experience under my belt, I joined the industry as a full-time Software Engineer. In this role, every day I get to contribute my skills and knowledge to real-world projects, solve complex issues, and leave a meaningful impact.
 
-🤝 My skillset includes programming languages like Java and JS. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker, AWS, and System Design.
+🤝 My skill set includes programming languages such as Java and JavaScript. Being a web dev geek, I have skills in frontend frameworks like React, Next, Angular, SaSS, etc. Completed various cloud certifications along with hands-on experience with Docker, AWS, and System Design.
 
 🚀 I'm always seeking opportunities to learn, grow, collaborate, and even write blogs. Planning to build a strong foundation for a bright career ahead. Feel free to connect anytime!
 <br>
 ## Links :link:
 <a><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="340" height="240"/></a>
 - Software Engineer @ [Nasdaq](https://adenza.com/).
-- Open-Source contributions in [GSSoC](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.com/).
+- Past open-source contributor in [GSSoC](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.com/) programs.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/maazahmed9000/) and [X](https://x.com/).
 - Read my blogs on [Hashnode](https://maaz-code.hashnode.dev/).
 - Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. 📧
