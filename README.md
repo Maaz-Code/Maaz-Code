@@ -21,6 +21,7 @@
 - Read my blogs on [Hashnode](https://maaz-code.hashnode.dev/).
 - Email me @ <a href="ahmedmaaz73@gmail.com" target="_blank">ahmedmaaz73@gmail.com</a>. 📧
 - Former President of the student community - [UPES Hypervision](https://www.instagram.com/upeshypervision).
+- My coding profile - [Leetcode](https://leetcode.com/u/Maaz-Code/).
 <br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Code&layout=compact&theme=dark&hide=Python&exclude_repo=ecomm&langs_count=8" alt="Top Languages" /></a>
 <br>
